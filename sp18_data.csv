@@ -39,7 +39,7 @@ commute,work,age,dessert,state,siblings,role
 10,20,21,Ice cream,No,3,other
 5,15,19,Fruit tart,Washington,2,father
 24,0,20,Ice cream,California,6,father
-5,25,1999,"Ice cream, chocolate, brownies, cookies",Viet Nam,1,mother
+5,25,19,"Ice cream, chocolate, brownies, cookies",Viet Nam,1,mother
 5,21,22,Brownies,china,0,mother
 50,20,28,Pie,Virginia ,4,other
 50,10,17,Gelato,Washington,2,father
@@ -68,9 +68,9 @@ commute,work,age,dessert,state,siblings,role
 15,8,19,Ice cream,Washington,2,mother
 30,20,21,Any combination of fruit in cream.,United States,1,uncle
 3,0,18,Ice cream,Washington,1,other
-10,0,2000,Chocolate,Vietnam,1,other
+10,0,18,Chocolate,Vietnam,1,other
 15,0,22,Ice cream,Washington,9,father
-10,0,1998,Brownies,Japan,0,grandma
+10,0,20,Brownies,Japan,0,grandma
 5,0,20,Cookies,Japan,2,mother
 5,20,22,Ice cream,China,0,other
 35,24,19,Ice cream,Washington,0,grandpa
