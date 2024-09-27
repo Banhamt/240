@@ -1,38 +1,38 @@
-Timestamp,"How many hours a week do you work for pay? If none, put 0.",What time do you typically go to bed on a weekday? (Use PM if in evening),What is your favorite time of day?,Do you spend time on TikTok or not?,How much time (in hours) do you spend each day on social media?,Do you believe in God or a higher power?,How often do you watch Marvel films?,Where were you born?,How many siblings do you have?
-9/26/2024 9:33:44,5,11:00:00 PM,9:00:00 PM,No,10,No,Never,Other state in US,0
-9/26/2024 9:37:25,0,12:00:00 AM,11:00:00 AM,No,3,No,Rarely,WA city outside Whatcom county,1
-9/26/2024 9:37:33,19,11:00:00 PM,11:00:00 AM,Yes,2,No,Rarely,Other state in US,3
-9/26/2024 9:37:33,0,10:30:00 PM,8:00:00 AM,Yes,3,Yes,Never,WA city outside Whatcom county,1
-9/26/2024 9:37:37,20,12:30:00 AM,8:00:00 PM,Yes,2,Yes,Rarely,Somewhere outside the US,2
-9/26/2024 9:37:38,3,12:00:00 PM,10:00:00 AM,Yes,4,No,Frequently,WA city outside Whatcom county,1
-9/26/2024 9:37:40,0,12:00:00 AM,2:00:00 PM,No,5,Yes,Frequently,Other state in US,2
-9/26/2024 9:37:41,0,12:00:00 AM,9:00:00 PM,Yes,4,No,Rarely,WA city outside Whatcom county,0
-9/26/2024 9:37:44,15,1:00:00 AM,3:00:00 PM,Yes,4,No,Never,WA city outside Whatcom county,3
-9/26/2024 9:37:50,0,12:00:00 AM,6:00:00 PM,Yes,5,No,Rarely,WA city outside Whatcom county,3
-9/26/2024 9:37:51,0,12:30:00 AM,3:00:00 AM,No,0,No,Never,WA city outside Whatcom county,6
-9/26/2024 9:37:52,0,11:00:00 PM,7:00:00 AM,No,3,Yes,Never,Somewhere outside the US,1
-9/26/2024 9:37:56,8,10:00:00 PM,1:00:00 PM,Yes,4,Yes,Frequently,WA city outside Whatcom county,1
-9/26/2024 9:37:58,0,10:00:00 PM,9:00:00 AM,No,3,Yes,Frequently,WA city outside Whatcom county,3
-9/26/2024 9:37:59,0,2:00:00 AM,2:00:00 AM,Yes,13,No,Never,WA city outside Whatcom county,1
-9/26/2024 9:38:00,0,11:30:00 PM,10:00:00 PM,Yes,3,No,Rarely,Whatcom county,1
-9/26/2024 9:38:02,5,12:00:00 AM,5:00:00 PM,No,2,Yes,Rarely,WA city outside Whatcom county,1
-9/26/2024 9:38:01,10,10:23:00 PM,10:00:00 AM,Yes,3,No,Rarely,WA city outside Whatcom county,1
-9/26/2024 9:38:03,0,1:00:00 AM,10:00:00 PM,No,1,Yes,Frequently,Other state in US,1
-9/26/2024 9:38:05,8,11:30:00 PM,7:00:00 PM,Yes,3,Yes,Rarely,Other state in US,2
-9/26/2024 9:38:07,0,11:30:00 PM,7:00:00 PM,Yes,4,Yes,Rarely,Other state in US,3
-9/26/2024 9:38:08,0,11:30:00 PM,6:00:00 PM,Yes,7,Yes,Rarely,Other state in US,2
-9/26/2024 9:38:11,20,1:00:00 AM,6:00:00 PM,Yes,3,No,Rarely,WA city outside Whatcom county,3
-9/26/2024 9:38:12,32,12:00:00 AM,3:00:00 PM,Yes,8,Yes,Rarely,WA city outside Whatcom county,2
-9/26/2024 9:38:16,0,11:30:00 PM,10:00:00 PM,Yes,3,Yes,Frequently,Other state in US,1
-9/26/2024 9:38:16,0,11:00:00 PM,12:00:00 PM,No,3,Yes,Frequently,WA city outside Whatcom county,3
-9/26/2024 9:38:17,0,11:00:00 PM,2:00:00 PM,No,2,Yes,Rarely,Other state in US,2
-9/26/2024 9:38:20,15,11:00:00 PM,1:00:00 PM,Yes,4,No,Rarely,WA city outside Whatcom county,3
-9/26/2024 9:38:24,10,10:00:00 PM,7:00:00 AM,Yes,2,No,Rarely,WA city outside Whatcom county,2
-9/26/2024 9:38:26,10,11:00:00 PM,11:00:00 AM,No,0.5,No,Rarely,WA city outside Whatcom county,2
-9/26/2024 9:38:27,0,12:00:00 PM,5:00:00 PM,No,3,Yes,Frequently,WA city outside Whatcom county,2
-9/26/2024 9:38:28,6,10:20:00 PM,3:00:00 PM,No,0.3,No,Rarely,Other state in US,1
-9/26/2024 9:38:30,0,11:30:00 PM,8:00:00 PM,Yes,0.75,Yes,Rarely,WA city outside Whatcom county,1
-9/26/2024 9:38:32,20,12:30:00 AM,6:00:00 PM,No,3,Yes,Frequently,Other state in US,3
-9/26/2024 9:38:38,0,11:30:00 PM,11:00:00 AM,Yes,3,No,Rarely,WA city outside Whatcom county,1
-9/26/2024 9:38:45,0,1:00:00 AM,5:00:00 PM,No,1,No,Rarely,WA city outside Whatcom county,2
-9/26/2024 9:40:36,15,11:30:00 PM,7:00:00 PM,No,6,Yes,Never,WA city outside Whatcom county,1
+hours,bedtime,facetime,tiktok,social,god,marvel,born,siblings
+5,11:00:00 PM,9:00:00 PM,No,10,No,Never,Other state in US,0
+0,12:00:00 AM,11:00:00 AM,No,3,No,Rarely,WA city outside Whatcom county,1
+19,11:00:00 PM,11:00:00 AM,Yes,2,No,Rarely,Other state in US,3
+0,10:30:00 PM,8:00:00 AM,Yes,3,Yes,Never,WA city outside Whatcom county,1
+20,12:30:00 AM,8:00:00 PM,Yes,2,Yes,Rarely,Somewhere outside the US,2
+3,12:00:00 PM,10:00:00 AM,Yes,4,No,Frequently,WA city outside Whatcom county,1
+0,12:00:00 AM,2:00:00 PM,No,5,Yes,Frequently,Other state in US,2
+0,12:00:00 AM,9:00:00 PM,Yes,4,No,Rarely,WA city outside Whatcom county,0
+15,1:00:00 AM,3:00:00 PM,Yes,4,No,Never,WA city outside Whatcom county,3
+0,12:00:00 AM,6:00:00 PM,Yes,5,No,Rarely,WA city outside Whatcom county,3
+0,12:30:00 AM,3:00:00 AM,No,0,No,Never,WA city outside Whatcom county,6
+0,11:00:00 PM,7:00:00 AM,No,3,Yes,Never,Somewhere outside the US,1
+8,10:00:00 PM,1:00:00 PM,Yes,4,Yes,Frequently,WA city outside Whatcom county,1
+0,10:00:00 PM,9:00:00 AM,No,3,Yes,Frequently,WA city outside Whatcom county,3
+0,2:00:00 AM,2:00:00 AM,Yes,13,No,Never,WA city outside Whatcom county,1
+0,11:30:00 PM,10:00:00 PM,Yes,3,No,Rarely,Whatcom county,1
+5,12:00:00 AM,5:00:00 PM,No,2,Yes,Rarely,WA city outside Whatcom county,1
+10,10:23:00 PM,10:00:00 AM,Yes,3,No,Rarely,WA city outside Whatcom county,1
+0,1:00:00 AM,10:00:00 PM,No,1,Yes,Frequently,Other state in US,1
+8,11:30:00 PM,7:00:00 PM,Yes,3,Yes,Rarely,Other state in US,2
+0,11:30:00 PM,7:00:00 PM,Yes,4,Yes,Rarely,Other state in US,3
+0,11:30:00 PM,6:00:00 PM,Yes,7,Yes,Rarely,Other state in US,2
+20,1:00:00 AM,6:00:00 PM,Yes,3,No,Rarely,WA city outside Whatcom county,3
+32,12:00:00 AM,3:00:00 PM,Yes,8,Yes,Rarely,WA city outside Whatcom county,2
+0,11:30:00 PM,10:00:00 PM,Yes,3,Yes,Frequently,Other state in US,1
+0,11:00:00 PM,12:00:00 PM,No,3,Yes,Frequently,WA city outside Whatcom county,3
+0,11:00:00 PM,2:00:00 PM,No,2,Yes,Rarely,Other state in US,2
+15,11:00:00 PM,1:00:00 PM,Yes,4,No,Rarely,WA city outside Whatcom county,3
+10,10:00:00 PM,7:00:00 AM,Yes,2,No,Rarely,WA city outside Whatcom county,2
+10,11:00:00 PM,11:00:00 AM,No,0.5,No,Rarely,WA city outside Whatcom county,2
+0,12:00:00 PM,5:00:00 PM,No,3,Yes,Frequently,WA city outside Whatcom county,2
+6,10:20:00 PM,3:00:00 PM,No,0.3,No,Rarely,Other state in US,1
+0,11:30:00 PM,8:00:00 PM,Yes,0.75,Yes,Rarely,WA city outside Whatcom county,1
+20,12:30:00 AM,6:00:00 PM,No,3,Yes,Frequently,Other state in US,3
+0,11:30:00 PM,11:00:00 AM,Yes,3,No,Rarely,WA city outside Whatcom county,1
+0,1:00:00 AM,5:00:00 PM,No,1,No,Rarely,WA city outside Whatcom county,2
+15,11:30:00 PM,7:00:00 PM,No,6,Yes,Never,WA city outside Whatcom county,1
